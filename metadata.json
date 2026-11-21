@@ -1,0 +1,6 @@
+{
+  "name": "Tsushima Reflections 3D",
+  "description": "Interactive Three.js 3D lakeside samurai diorama with real-time planar water reflections, wind-animated grass, drifting sakura blossoms, atmospheric mist, day-night lighting, and weather controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
